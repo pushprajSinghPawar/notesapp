@@ -1,0 +1,4 @@
+#Sat May 13 19:41:26 IST 2023
+base.0=D\:\\engg\\qsintern\\notesapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
