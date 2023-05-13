@@ -17,7 +17,8 @@ flutter_scroll_to_top/flutter_scroll_to_top.dart
 
 ``Usage``
 
-To run the app, clone the repository and run flutter run in the project directory I have also added the apk file in the root directory for easily running in sndoid phones.
+To run the app, clone the repository and run flutter run in the project directory I have also added the apk file in the root directory for easily running in sndoid phones. app-release.apk is the release version
+
 
 ``Features``
 
