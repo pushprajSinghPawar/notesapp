@@ -1,29 +1,16 @@
-# Qsproject1
+# notesapp
 
-`Flutter Note Taking App`
+A new Flutter project.
 
+## Getting Started
 
-This is a Flutter note taking app that uses SQLite to store notes. The app has two tabs, ``` "My Notes" ``` and   ``` "Add new Notes"  ```. The "My Notes" tab shows a list of all notes stored in the database. Each note in the list shows the title and description of the note, along with an edit and delete button. The "Add new Notes" tab allows the user to add a new note.
+This project is a starting point for a Flutter application.
 
-`Dependencies`
+A few resources to get you started if this is your first Flutter project:
 
-This app uses the following dependencies:
-```
-flutter/material.dart
-path/path.dart
-sqflite/sqflite.dart
-flutter_scroll_to_top/flutter_scroll_to_top.dart
-```
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-``Usage``
-
-To run the app, clone the repository and run flutter run in the project directory I have also added the apk file in the root directory for easily running in sndoid phones. app-release.apk is the release version
-
-
-``Features``
-
-
-1. Add new notes
-2. Edit existing notes
-3. Delete existing notes
-4. Scroll to top button
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
