@@ -1,4 +1,0 @@
-#Sat May 13 19:48:05 IST 2023
-base.0=D\:\\engg\\qsintern\\notesapp\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
